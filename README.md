@@ -1,8 +1,4 @@
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <h3 align="center">Creator Funding Portal</h3>
-</div>
+# Creator Funding Portal
 
 ## Getting started
 
